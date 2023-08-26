@@ -1,5 +1,4 @@
-hi coder！
-![](http://antzuhl.cn:4000/get/@antzuhl.readme)
+![](https://count.getloli.com/get/@leaft.github.readme?theme=rule34)
 
 
 
