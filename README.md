@@ -31,32 +31,30 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=leaftz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaftz&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-
-## Profile View
 ![](https://count.getloli.com/get/@leaft.github.readme?theme=rule34)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leaftz" alt="leaftz" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leaftz&show_icons=true&locale=en&layout=compact" alt="leaftz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leaftz&show_icons=true&locale=en" alt="leaftz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leaftz&" alt="leaftz" /></p>
+
+
+
+
+
 
 
 
