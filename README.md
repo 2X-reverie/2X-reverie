@@ -1,7 +1,13 @@
-![](https://count.getloli.com/get/@leaft.github.readme?theme=rule34)
-Languages and Frameworks
+<h1 align="left">Hi 👋, I'm Leaftz</h1>
 
-![Static Badge](https://img.shields.io/badge/C)
+# Profile View
+![](https://count.getloli.com/get/@leaft.github.readme?theme=rule34)
+
+# Languages and Frameworks
+
+
+
+
 
 
 
