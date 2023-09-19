@@ -1,4 +1,4 @@
-## Hey 👋, I'm Leaftz!  
+## Hi there 👋 I'm Leaftz
   
 
 <div align="center">
