@@ -37,24 +37,6 @@
 
 ![](https://count.getloli.com/get/@leaft.github.readme?theme=rule34)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leaftz&" alt="leaftz" /></p>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=leaftz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaftz&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 
 
